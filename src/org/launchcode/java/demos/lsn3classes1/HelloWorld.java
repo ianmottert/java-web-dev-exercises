@@ -18,7 +18,6 @@ public class HelloWorld {
         message = aMessage;
     }
 
-
     // public void sayHello() {
 
         // String message = "Goodbye World";
