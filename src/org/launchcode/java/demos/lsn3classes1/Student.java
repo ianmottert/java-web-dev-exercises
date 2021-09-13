@@ -32,6 +32,7 @@ public class Student {
 
     public String studentInfo() {
         return (this.name + " has a GPA of: " + this.gpa);
+
     }
 
     // getters and setters
